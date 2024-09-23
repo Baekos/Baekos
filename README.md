@@ -1,4 +1,20 @@
-## Hi there 👋
+
+# Hello! I'm Alex Bakos 👋
+I'm currently a junior at the University at Buffalo, where I'm diving deep into the world of programming. I'm passionate about building efficient, reliable, and scalable software solutions.
+
+## 🌱 What I'm Learning:
+- Java
+- C
+- OCaml
+## 🔭 What I'm Working On:
+Developing projects and honing my skills in object-oriented and functional programming.
+Exploring various algorithms and data structures to improve my problem-solving abilities.
+## 💬 Let's Connect:
+[LinkedIn](https://www.linkedin.com/in/alexanderbakos/)
+
+[Email](asbakos@buffalo.edu)
+
+
 
 <!--
 **Baekos/Baekos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
