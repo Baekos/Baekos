@@ -6,6 +6,7 @@ I'm currently a junior at the University at Buffalo, where I'm diving deep into 
 - Java
 - C
 - OCaml
+- JavaScript
 ## 🔭 What I'm Working On:
 Developing projects and honing my skills in object-oriented and functional programming.
 Exploring various algorithms and data structures to improve my problem-solving abilities.
