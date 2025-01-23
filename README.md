@@ -5,6 +5,7 @@ I'm currently a junior at the University at Buffalo, where I'm diving deep into 
 ## 🌱 What I'm Learning:
 - Java
 - C
+- C++
 - OCaml
 - JavaScript
 ## 🔭 What I'm Working On:
