@@ -1,6 +1,6 @@
 
 # Hello! I'm Alex Bakos 👋
-I'm currently a junior at the University at Buffalo, where I'm diving deep into the world of programming. I'm passionate about building efficient, reliable, and scalable software solutions.
+I'm currently a Senior at the University at Buffalo, where I'm diving deep into the world of programming. I'm passionate about building efficient, reliable, and scalable software solutions.
 
 ## 🌱 What I'm Learning:
 - Java
